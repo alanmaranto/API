@@ -1,0 +1,117 @@
+{
+    "data": {
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/cv-alanm-api.appspot.com/o/DSC_02555.jpg?alt=media&token=69ca02be-3756-42ca-a06f-8863ff8fbfbd",
+      "name": "Alan Maranto",
+      "profession": "Full Stack Developer",
+      "bio": " Engineer, M.Sc. and self-taught in object-oriented programming. Team work, attitude and cohesion.",
+      "address": "Monterrey, Nuevo León.",
+      "social": {
+        "0": {
+          "name": "facebook",
+          "url": "https://facebook.com/alanmaranto"
+        },
+        "1": {
+          "name": "twitter",
+          "url": "https://twitter.com/alanmaranto"
+        },
+        "2": {
+          "name": "github",
+          "url": "https://github.com/alanmaranto"
+        },
+        "3": {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/alan-arostegui-maranto-1a996517b/"
+        }
+      },
+      "experience": {
+        "0": {
+          "jobTitle": "Frontend",
+          "company": "Murkt",
+          "startDate": "",
+          "endDate": "",
+          "jobDescription": "Personal Project"
+        },
+        "1": {
+          "jobTitle": "Backend",
+          "company": "Murkt",
+          "startDate": "",
+          "endDate": "",
+          "jobDescription": "Personal Project"
+        }
+      },
+      "education": {
+        "0": {
+          "degree": "Master Degree in Science with orientation in sustainable processes ",
+          "institution": "UANL",
+          "startDate": "Jan 2017",
+          "endDate": "present",
+          "description": " Research methodologies in combination with the analysis of scientific data applied to technological and industrial processes in a sustainable manner"
+        },
+        "1": {
+          "degree": "Chemical Engineering",
+          "institution": "UV",
+          "startDate": "Aug 2013",
+          "endDate": "Aug 2016",
+          "description": "Chemical Engineering is the branch of Engineering that is dedicated to the study, synthesis, development, design, operation and optimization of all those industrial processes that produce physical, chemical and / or biochemical changes in materials. "
+        }
+      },
+      "certificate": {
+        "0": {
+          "name": "FrontEnd Developer",
+          "institution": "Next U",
+          "date": "Aug 2019",
+          "description": "Web design and web development "
+        },
+        "1": {
+            "name": "Backend Developer",
+            "institution": "Next U",
+            "date": "Aug 2019",
+            "description": "Server, aplication and databases"
+          },
+         "2": {
+            "name": "Black Tape Program",
+            "institution": "Dev.F",
+            "date": "Jun 2019",
+            "description": "RESTFUL API, Unit Testing, Continuous Integration, Deployment"
+          }
+      },
+      "skills": {
+        "0": {
+          "name": "HTML5",
+          "percentage": "75%"
+        },
+        "1": {
+          "name": "CSS",
+          "percentage": "75%"
+        },
+        "2": {
+          "name": "JavaScript",
+          "percentage": "85%"
+        },
+        "3": {
+          "name": "React",
+          "percentage": "90%"
+        },
+        "4": {
+            "name": "Angular",
+            "percentage": "60%"
+        },  
+        "5": {
+            "name": "NodeJS",
+            "percentage": "80%"
+        },  
+        "6": {
+            "name": "PHP",
+            "percentage": "60%"
+        },
+        "7": {
+            "name": "JQUERY",
+            "percentage": "60%"
+        },
+        "8": {
+            "name": "Python",
+            "percentage": "60%"
+        }  
+      }
+    }
+}
